@@ -131,21 +131,3 @@ export default handler;
 The Next.js E-commerce Model with Formik offers a comprehensive and scalable solution for building e-commerce applications. With its robust authentication, cart management, checkout process, and integration with various libraries and technologies, it provides developers with a solid foundation to create feature-rich and user-friendly online stores.
 
 
-## Links
-  - Deploy on Vercel: Soon 
-  - Repository: https://github.com/Honorato-Dev/outfit-store
-  - In case of sensitive bugs like security vulnerabilities, please contact
-    vituhonorato.89@gmail.com directly instead of using issue tracker. We value your effort
-    to improve the security and privacy of this project!
-
-  ## Versioning
-
-  2.0.0.0
-
-
-  ## Authors
-
-  * **@jvmhonorato** 
-
-  Please follow github and join us!
-  Thanks to visiting me and good coding!
